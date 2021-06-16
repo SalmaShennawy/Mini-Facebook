@@ -1,0 +1,10 @@
+#include "logInLogic.h"
+void menu();
+void Displaymenu(std::string);
+bool login();
+void Register();
+void logout();
+void RandomGame();
+void TicTacToe();
+void DisplayBoard();
+int win();

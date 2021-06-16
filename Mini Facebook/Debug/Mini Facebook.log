@@ -1,0 +1,16 @@
+﻿  Source.cpp
+  User.cpp
+C:\Users\User\source\repos\Mini Facebook\Mini Facebook\User.cpp(81,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Mini Facebook\Mini Facebook\User.cpp(95,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Mini Facebook\Mini Facebook\User.cpp(130,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Mini Facebook\Mini Facebook\User.cpp(171,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Mini Facebook\Mini Facebook\User.cpp(183,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Mini Facebook\Mini Facebook\User.cpp(248,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Mini Facebook\Mini Facebook\User.cpp(263,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Mini Facebook\Mini Facebook\User.cpp(262,6): warning C4101: 'index': unreferenced local variable
+C:\Users\User\source\repos\Mini Facebook\Mini Facebook\User.cpp(427,20): warning C4018: '<': signed/unsigned mismatch
+  logInConsole.cpp
+C:\Users\User\source\repos\Mini Facebook\Mini Facebook\logInConsole.cpp(346,21): warning C4018: '<': signed/unsigned mismatch
+  logInLogic.cpp
+  Generating Code...
+  Mini Facebook.vcxproj -> C:\Users\User\source\repos\Mini Facebook\Debug\Mini Facebook.exe
